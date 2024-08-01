@@ -1,2 +1,2 @@
 this is a git test file first time
-this is another line added for test
+this is another line added for test2
